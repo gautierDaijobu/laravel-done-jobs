@@ -13,7 +13,7 @@ Quick way to save jobs that have been created without any problem. The antithesi
 You can install the package via composer:
 
 ```bash
-composer require omatech/laravel-done-jobs
+composer require got-daijobu/laravel-10-done-jobs
 ```
 
 ## Usage
