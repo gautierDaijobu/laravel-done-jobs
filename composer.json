@@ -1,11 +1,11 @@
 {
-    "name": "omatech/laravel-done-jobs",
-    "description": "Quick way to save jobs that have been created without any problem. The antithesis of failed jobs.",
+    "name": "gotDaijobu/laravel-10-done-jobs",
+    "description": "Fork from omatech/laravel-done-jobs.",
     "keywords": [
         "omatech",
         "laravel-done-jobs"
     ],
-    "homepage": "https://github.com/omatech/laravel-done-jobs",
+    "homepage": "https://github.com/gotDaijobu/laravel-done-jobs",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -23,7 +23,12 @@
             "name": "Christian Bohollo",
             "email": "cbohollo@omatech.com",
             "role": "Developer"
-        }
+        },
+        {
+            "name": "Daijobu",
+            "email": "gautier@daijobu.fr",
+            "role": "Quick editor"
+        },
     ],
     "require": {
         "php": "^7.1|^8.1",
