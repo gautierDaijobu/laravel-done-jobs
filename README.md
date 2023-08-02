@@ -1,4 +1,4 @@
-This package is fork from omatech/laravel-done-jobs edited to support Laravel 10.
+This package is forked from omatech/laravel-done-jobs and lightly edited to support Laravel 10.
 
 
 
