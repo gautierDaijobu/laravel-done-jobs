@@ -1,6 +1,6 @@
 {
     "name": "gotDaijobu/laravel-10-done-jobs",
-    "description": "Fork from omatech/laravel-done-jobs.",
+    "description": "Forked from omatech/laravel-done-jobs.",
     "keywords": [
         "omatech",
         "laravel-done-jobs"
@@ -26,7 +26,6 @@
         },
         {
             "name": "Daijobu",
-            "email": "gautier@daijobu.fr",
             "role": "Quick editor"
         },
     ],
