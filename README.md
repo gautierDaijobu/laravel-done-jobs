@@ -1,3 +1,7 @@
+This package is fork from omatech/laravel-done-jobs edited to support Laravel 10.
+
+
+
 # Laravel Done Jobs
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/omatech/laravel-done-jobs.svg?style=flat-square)](https://packagist.org/packages/omatech/laravel-done-jobs)
