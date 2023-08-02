@@ -27,7 +27,7 @@
         {
             "name": "Daijobu",
             "role": "Quick editor"
-        },
+        }
     ],
     "require": {
         "php": "^7.1|^8.1",
